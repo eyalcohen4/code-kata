@@ -21,7 +21,6 @@ function search(array, target) {
     }
 
     return -1;
-  
 
 }
 

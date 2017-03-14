@@ -17,7 +17,8 @@ describe('binary-search', () => {
         it('should return -1 because the element isnt inside the array', () => {
 
             assert.equal(-1, bs(array, 200));
-
+            assert.equal(-1, bs(array, 2));
+            
         }) 
 
 
