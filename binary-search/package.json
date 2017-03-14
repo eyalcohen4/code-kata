@@ -1,0 +1,12 @@
+{
+  "name": "binary-search",
+  "version": "0.0.1",
+  "description": "Stupid 5 solutions for binary search",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Eyal Cohen <eyalcohen4.ec@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
